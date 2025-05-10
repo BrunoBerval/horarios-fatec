@@ -1,4 +1,4 @@
-<h1 align="center">Fatec Jacareí- DSM 1º SEMESTRE</h1>
+as que fize<h1 align="center">Fatec Jacareí- DSM 1º SEMESTRE</h1>
 
 # <p>Equipe 💻: TechCastle </p>
 <br>
@@ -10,7 +10,7 @@
 
 | Sprint | Link        | Início      | Entrega     | Status |
 |--------|-------------|-------------|-------------|--------|
-| 01     | [Sprint 01](#sprint-1) | 24/03/2025  | 15/04/2025  |       |
+| 01     | [Sprint 01](#sprint-1) | 24/03/2025  | 15/04/2025  |   ✔   |
 | 02     | [Sprint 02](#sprint-2) | 16/04/2025  | 13/05/2025  |       |
 | 03     | [Sprint 03](#sprint-3) | 14/05/2025  | 11/06/2025  |       |
 
@@ -120,9 +120,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.png" alt="Express" width="40" height="40"/>
+</a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
@@ -200,7 +200,7 @@ Praticar mais as reuniões e atualizações diárias das tarefas, evitando desen
 <span id="sprint-2">
  
 ## :page_with_curl: SPRINT 2 
-<p align="justify">Na Segunda Sprint priorizamos a criação das páginas em HTML/CSS dividias entre os membros da equipe, onde todos puderam compartilhar com seus conhecimentos agregando mais ao projeto e alinhando os ensinamentos. Realizamos um nivelamento de aprendizado com relação ao Javascript com toda a equipe, visando a melhor dinâmica para a próxima Sprint. </p>
+<p align="justify">Na Segunda Sprint priorizamos a criação das páginas em HTML/CSS dividias entre os membros da equipe, onde todos puderam compartilhar com seus conhecimentos agregando mais ao projeto e alinhando os ensinamentos. Realizar um nivelamento de aprendizado com relação ao Javascript com toda a equipe, visando a melhor dinâmica para a próxima Sprint. </p>
 
 <br>
 
@@ -209,16 +209,16 @@ Praticar mais as reuniões e atualizações diárias das tarefas, evitando desen
 
 | ID REFERENCIA | Prioridade (Scrum Poker Planning) | REQUISITO DA SPRINT                                                                                                     | Responsável | TAREFA INICIADA | TAREFA CONCLUIDA |
 |---------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------|------------------|-------------------|
-|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Bruna       |  ✔  |  |
-|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Suelen      |  ✔  |  |
-|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Camila      |  ✔  |  |
-|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Fernanda    |  ✔  |  |
-|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Pedro       |  ✔  |  |
-|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Ryan        |  ✔  |  |
-|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Nicolas     |  ✔  |  |
-|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Bruno       |  ✔  |  |
-|   RNF - 1/ RNF - 2    | 6 | Estudo em grupo de JavaScript para nivelamento dos membros do grupo.       | Todos       |  ✔  |  |
-|   RNF - 1/ RNF - 2    | 6 | Estudo em grupo sobre node.js, express.js, e API para que todos do grupo possam atender aos requisitos da próxima Sprint | Todos       |   ✔  |  |
+|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Bruna       |  ✔  | ✔ |
+|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Suelen      |  ✔  | ✔ |
+|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Camila      |  ✔  | ✔ |
+|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Fernanda    |  ✔  | ✔ |
+|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Pedro       |  ✔  | ✔ |
+|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Ryan        |  ✔  | ✔ |
+|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Nicolas     |  ✔  | ✔ |
+|   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Bruno       |  ✔  | ✔ |
+|   RNF - 1/ RNF - 2    | 6 | Estudo em grupo de JavaScript para nivelamento dos membros do grupo.       | Todos       |  ✔  | ✔ |
+|   RNF - 1/ RNF - 2    | 6 | Estudo em grupo sobre node.js, express.js, e API para que todos do grupo possam atender aos requisitos da próxima Sprint | Todos       |   ✔  | ✔ |
 
 <br>
 
@@ -236,13 +236,13 @@ Praticar mais as reuniões e atualizações diárias das tarefas, evitando desen
 
 **1. O que funcionou bem durante o sprint?**
 <br>
-...
+A forma de divisão de tarefas que fizemos com todos os membros da equipe, respeitando os prazos e agregando conhecimentos para cada um, além de permitir a interação de uns com os outros, ajudando e redividindo as tarefas, quando necessário.
 
 **2. O que não funcionou tão bem durante o sprint?**
 <br>
-...
+Tudo funcionou bem!
 
 **3. Quais ações podemos tomar para melhorar no próximo sprint?**
 <br>
-...
+Não conseguimos identificar no momento pontos de melhoria, mas manter o pensamento de efetivar as tarefas o quanto antes para não sobrecarregar a equipe na reta final.
 <br>
