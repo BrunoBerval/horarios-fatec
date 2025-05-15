@@ -1,4 +1,4 @@
-as que fize<h1 align="center">Fatec Jacareí- DSM 1º SEMESTRE</h1>
+<h1 align="center">Fatec Jacareí- DSM 1º SEMESTRE</h1>
 
 # <p>Equipe 💻: TechCastle </p>
 <br>
@@ -60,7 +60,7 @@ as que fize<h1 align="center">Fatec Jacareí- DSM 1º SEMESTRE</h1>
 
 ## 📘 Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](Documentos/Diagramas/Uso.png) 
+![Diagrama de Casos de Uso](Documentos/Diagramas/Uso.png)
 
 ---
 
@@ -75,7 +75,7 @@ as que fize<h1 align="center">Fatec Jacareí- DSM 1º SEMESTRE</h1>
 ## 🛢️ Modelo conceitual do banco de de dados - MER 
 
 
-![Modelo conceitual](Documentos/Diagramas/modelo_conceitual-MER.png)
+![Modelo conceitual](Documentos/Diagramas/MER.png)
 
 <br>
 
@@ -219,30 +219,51 @@ Praticar mais as reuniões e atualizações diárias das tarefas, evitando desen
 |   RNF - 2     | 2 | Finalizar a primeira versão da tela que foi designada em HTML, estilizando em CSS de acordo com o design do Figma e colocar as funcionalidades em JavaScript, quando necessário. | Bruno       |  ✔  | ✔ |
 |   RNF - 1/ RNF - 2    | 6 | Estudo em grupo de JavaScript para nivelamento dos membros do grupo.       | Todos       |  ✔  | ✔ |
 |   RNF - 1/ RNF - 2    | 6 | Estudo em grupo sobre node.js, express.js, e API para que todos do grupo possam atender aos requisitos da próxima Sprint | Todos       |   ✔  | ✔ |
+|   RNF - 2     | 2 | Fazer a hospedagem do banco de dados na plataforma Render | Bruno       |  ✔  | ✔ |
+|   RNF - 2     | 2 | Criar uma API que forneça endpoints para manipulação de dados e integração com o frontend do trabalho  | Bruno      |  ✔  | ✔ |
 
 <br>
+<br>
 
+## 📕 Diagrama de Atividade Aluno
+
+![Diagrama de Atividade](Documentos/Diagramas/AtividadeAluno.png) 
+
+---
+
+## 📒 Diagrama de Atividade Secretaria
+
+![Diagrama de Atividade](Documentos/Diagramas/AtividadeSecretaria.png)
+
+---
+
+## 📙 Diagrama de Sequência
+
+![Diagrama de Sequencia](Documentos/Diagramas/Sequencia.png)
+
+<br>
 <br>
 
 ### • Burndown Sprint 2
 <br>
 
-...
+![Burndown](Documentos/Burndown/burndownSprint2.png)
 
 <br>
 
 ### • Sprint Retrospective 
 <br>
 
-**1. O que funcionou bem durante o sprint?**
+**1. O que funcionou bem durante a Sprint?**
 <br>
-A forma de divisão de tarefas que fizemos com todos os membros da equipe, respeitando os prazos e agregando conhecimentos para cada um, além de permitir a interação de uns com os outros, ajudando e redividindo as tarefas, quando necessário.
+A forma de divisão de tarefas feita com todos os membros da equipe, respeitando as necessidades individuais e agregando conhecimentos para cada um, além de permitir a interação de uns com os outros, incentivando a cooperação e redividindo as tarefas quando necessário.
 
-**2. O que não funcionou tão bem durante o sprint?**
+**2. O que não funcionou tão bem durante a Sprint?**
 <br>
-Tudo funcionou bem!
+Os trabalhos realizados poderiam ter tido um pouco mais de celeridade para que pudéssemos agregar mais tarefas à Sprint.
 
-**3. Quais ações podemos tomar para melhorar no próximo sprint?**
+
+**3. Quais ações podemos tomar para melhorar na próximo Sprint?**
 <br>
-Não conseguimos identificar no momento pontos de melhoria, mas manter o pensamento de efetivar as tarefas o quanto antes para não sobrecarregar a equipe na reta final.
+Melhorar as revisões de código e testes para garantir que não haja imprevistos na entrega final.
 <br>
